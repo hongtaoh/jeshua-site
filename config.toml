@@ -16,13 +16,9 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "关于"
-    url = "/about/"
-    weight = 2
-[[menu.main]]
-    name = "博客"
+    name = "文章"
     url = "/posts/" 
-    weight = 3
+    weight = 2
 
 [params]
     description = "Peronal website of Your Name"
