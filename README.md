@@ -1,3 +1,3 @@
-# Example site of [hugo-ht](https://github.com/hongtaoh/hugo-ht)
+# 约书亚传导
 
-This site serves as the example site of [hugo-ht](https://github.com/hongtaoh/hugo-ht).
+此站集合了 [灵性炼金术](www.jeshua.net) 的中文传导。
