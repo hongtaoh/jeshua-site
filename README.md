@@ -30,7 +30,7 @@
     </header>
     <main>
         <h2>请前往新网址。如有不便，敬请谅解！</h2>
-         <a href="https://jeshua.vercel.app">https://jeshua.vercel.app</a> 
+         <a href="https://jeshua-cn.vercel.app">https://jeshua-cn.vercel.app</a> 
     </main>
     <footer>
         <p>Copyright © 2024</p>
